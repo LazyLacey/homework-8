@@ -1,0 +1,23 @@
+[
+        {
+            "userId":1,
+            "bookId":[105, 107]
+        },
+        {
+            "userId":2,
+            "bookId":[104, 108]
+        },
+        {
+            "userId":3,
+            "bookId":[102]
+        },
+        {
+            "userId":4,
+            "bookId":[103, 106]
+        },
+        {
+            "userId":5,
+            "bookId":[101]
+        }
+        
+    ]

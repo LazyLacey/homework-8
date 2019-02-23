@@ -1,0 +1,27 @@
+[
+    {
+        "userId":1,
+        "name":"Иванов",
+        "username":"ivanov" 
+    },
+    {
+        "userId":2,
+        "name":"Петров",
+        "username":"petrov" 
+    },
+    {
+        "userId":3,
+        "name":"Сидоров",
+        "username":"sidorov" 
+    },
+    {
+        "userId":4,
+        "name":"Кузнецов",
+        "username":"kuznetsov" 
+    },
+    {
+        "userId":5,
+        "name":"Михайлов",
+        "username":"mikhailov" 
+    }
+]
